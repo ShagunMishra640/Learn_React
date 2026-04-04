@@ -1,0 +1,6 @@
+first command is 'npm create vite@latest'
+then after entering it will ask project name then give your project name
+after that choose library and language to work
+then npm install to intall all required dependencies
+
+then use command 'npm run dev'
